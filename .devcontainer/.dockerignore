@@ -1,0 +1,6 @@
+# Ignore local data and cache
+data/
+*.zip
+*.json
+__pycache__/
+*.pyc

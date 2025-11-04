@@ -1,0 +1,6 @@
+data/.DS_Store
+.DS_Store
+logs/
+data/
+data/raw/*.json
+!data/raw/*sample*.json
