@@ -7,6 +7,8 @@ The pipeline extracts, transforms, and loads Yelp datasets into PostgreSQL, perf
 
 ## Project Structure
 
+Data source: https://www.kaggle.com/datasets/adamamer2001/yelp-complete-open-dataset-2024
+
 ```
 airflow-pg/
 ├── dags/
