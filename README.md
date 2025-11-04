@@ -95,7 +95,19 @@ Top 10 Cities by Average Yelp Review Stars
 * Docker for containerization
 
 ---
+Screenshots
 
+1. Successful DAG Execution in Airflow UI
+![Successful DAG Execution in Airflow UI](screenshots/dag_success.png)
+
+2. DAG Graph View  
+   ![DAG Graph View](screenshots/dag_graph_view.png)
+
+3. Visualization Output (avg_stars_by_city)  
+   ![Visualization Output](data/outputs/avg_stars_by_city.png)
+
+
+---
 ## Cleanup
 
 All intermediate files under `/opt/airflow/data/intermediate` are deleted automatically by the final cleanup task.
